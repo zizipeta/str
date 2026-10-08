@@ -1,0 +1,969 @@
+#EXTM3U
+#EXTINF:-1 group-title="Prémium",PREMIER
+http://stream2.torba.fun/hUL4PJK8KP/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",MARVEL
+http://stream2.torba.fun/azdyPwYXxL/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",NETFLIX
+http://stream2.torba.fun/JdrPGwUYT1/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",MOVIEFLIX
+http://stream2.torba.fun/I9pDJRbMZD/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",MOVIE+
+http://stream2.torba.fun/tgdx1Gv0Nb/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",DISASTER MOVIE
+http://stream2.torba.fun/kEhqqjVk5d/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",FILM SHOW HORROR
+http://stream2.torba.fun/x9LrRy6OFv/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",COMEDY CHANNEL
+http://stream2.torba.fun/Bi5AE4GaWQ/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",LEGEND
+http://stream2.torba.fun/yRJxzOgb7V/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",RETRO FILM
+http://stream2.torba.fun/1Uvn1dHQwd/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",CANAL ACTION
+http://stream2.torba.fun/YvXXEc286G/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 group-title="Prémium",Black & White
+http://stream2.torba.fun/RVwtK2PwuN/mpegts?token=A1NjjunXksljkjbK
+#EXTINF:-1 tvg-id="BTV.hu@SD" tvg-logo="https://i.imgur.com/0PKqn3V.png" group-title="Github",Bábolnai TV (360p)
+#EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-logo="https://i.imgur.com/aOa73uT.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-id="Duna.hu@SD" tvg-logo="https://i.imgur.com/oPbsSlp.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Duna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/duna_hun/index.m3u8
+EXTINF:-1 tvg-id="DunaWorld.hu@SD" tvg-logo="https://i.imgur.com/uOBQJZS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Github",Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="FEM3.hu@SD" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",FEM3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Film4.hu@SD" tvg-logo="https://i.imgur.com/X5N8CHf.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Film4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.hu@SD" tvg-logo="https://i.imgur.com/OWqzJyy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@MagyarRomania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Github",FILMBOX+ Comedy Magyar & Romania (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Hungary" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Github",FILMBOX+ Emotion Hungary (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Github",FILMBOX+ One Magyar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Galaxy4.hu@SD" tvg-logo="https://i.imgur.com/fTG99xh.png" group-title="Github",Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="HirTV.hu@SD" tvg-logo="https://i.imgur.com/xmIUDRN.png" group-title="Github",Hir TV (1080p)
+https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
+#EXTINF:-1 tvg-id="History.hu@SD" tvg-logo="https://i.imgur.com/OWIK7FJ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="IzauraTV.hu@SD" tvg-logo="https://i.imgur.com/p9YFnpw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Izaura TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="M1.hu@HD" tvg-logo="https://i.imgur.com/r4tgKZK.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",M1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="M2.hu@SD" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Github",M2 (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://i.imgur.com/TQ4uJZk.png" group-title="Github",M4 Sport
+http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:-1 tvg-id="M5.hu@SD" tvg-logo="https://i.imgur.com/y21wFd0.png" group-title="Github",M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="MoziPlus.hu@SD" tvg-logo="https://i.imgur.com/LtCnPFJ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Mozi+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Moziverzum.hu@SD" tvg-logo="https://i.imgur.com/NMifecQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Moziverzum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="MuzsikaTV.hu@SD" tvg-logo="https://i.imgur.com/kmQ5vYC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Muzsika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="Prime.hu@SD" tvg-logo="https://i.imgur.com/VvZEP4s.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:-1 tvg-id="RTL.hu@SD" tvg-logo="https://i.imgur.com/ruRshE1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu@SD" tvg-logo="https://i.imgur.com/PwbLDUQ.png" group-title="Github",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLHarom.hu@SD" tvg-logo="https://i.imgur.com/c4Hhhzs.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",RTL Harom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKetto.hu@SD" tvg-logo="https://i.imgur.com/IVv0qrI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",RTL Ketto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLOtthon.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",RTL Otthon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-id="SlagerTV.hu@SD" tvg-logo="https://i.imgur.com/qDNRgSQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Slager TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SorozatPlus.hu@SD" tvg-logo="https://i.imgur.com/KsxWZIw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Sorozat+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-logo="https://i.imgur.com/GmFRQ82.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu@SD" tvg-logo="https://i.imgur.com/VaVi65F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Spektrum Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 tvg-id="Spiler1.hu@SD" tvg-logo="https://i.imgur.com/pbk8c4x.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-id="Spiler2.hu@SD" tvg-logo="https://i.imgur.com/1e0VsVH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-id="Story4.hu@SD" tvg-logo="https://i.imgur.com/pJsLyiv.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Github",Story4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV2.hu@SD" tvg-logo="https://i.imgur.com/JCu1u2v.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Super TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TrimedioTV.hu@SD" tvg-logo="https://i.imgur.com/P4hxWVZ.png" group-title="Github",Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Comedy.hu@SD" tvg-logo="https://i.imgur.com/B02hbcV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="TV2Kids.hu@SD" tvg-logo="https://i.imgur.com/Zltlezm.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:-1 tvg-id="TV2Sef.hu@SD" tvg-logo="https://i.imgur.com/8GFj3XP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",TV2 Sef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.hu@SD" tvg-logo="https://i.imgur.com/cjypCfu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat2.hu@SD" tvg-logo="https://i.imgur.com/lEAhKPa.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Viasat2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat2/index.m3u8
+#EXTINF:-1 tvg-id="Viasat3.hu@SD" tvg-logo="https://i.imgur.com/ehx7R3A.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Viasat 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-id="Viasat6.hu@SD" tvg-logo="https://i.imgur.com/kypSbFX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Viasat 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-id="Axn crime" tvg-logo="https://i.imgur.com/5CoP6ex.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Axn crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="Zenebutik.hu@SD" tvg-logo="https://i.imgur.com/xGUlF78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Github",Zenebutik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Dikh
+http://london-cache-2.antik.sk:81/live/dikh/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Zenebutik
+http://london-cache-2.antik.sk:81/live/zenebutik/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Apostol
+http://london-cache-2.antik.sk:81/live/apostol_tv/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Balaton
+http://london-cache-2.antik.sk:81/live/balaton_tv/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Bonum
+http://london-cache-2.antik.sk:81/live/ewtn_bonum/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Mozi+
+http://london-cache-2.antik.sk:81/live/mozi_plusz/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Moziverzum
+http://london-cache-2.antik.sk:81/live/moziverzum/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Magyar mozi
+http://london-cache-2.antik.sk:81/live/mozi/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Amc
+http://london-cache-2.antik.sk:81/live/amc_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Axn
+http://london-cache-2.antik.sk:81/live/axn_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Filmbox one
+http://london-cache-2.antik.sk:81/live/filmbox_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Filmbox hits
+http://london-cache-2.antik.sk:81/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Filmbox emotion
+http://london-cache-2.antik.sk:81/live/fb_extra_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Film4
+http://london-cache-2.antik.sk:81/live/film4_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Film cafe
+http://london-cache-2.antik.sk:81/live/film_cafe/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Izaura
+http://london-cache-2.antik.sk:81/live/izaura/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Jockey
+http://london-cache-2.antik.sk:81/live/jocky/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Life
+http://london-cache-2.antik.sk:81/live/lifetv/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Ozone
+http://london-cache-2.antik.sk:81/live/ozone/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Prime
+http://london-cache-2.antik.sk:81/live/prime/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Tv2 comedy
+http://london-cache-2.antik.sk:81/live/tv2_comedy/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Axm crime
+http://london-cache-2.antik.sk:81/live/viasat_film/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Viasat2
+http://london-cache-2.antik.sk:81/live/viasat2/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Viasat3
+http://london-cache-2.antik.sk:81/live/viasat3/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Viasat6
+http://london-cache-2.antik.sk:81/live/viasat6/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Arena4
+http://london-cache-2.antik.sk:81/live/arena4/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Eurosport 1
+http://london-cache-2.antik.sk:81/live/esp1_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Eurosport 2
+http://london-cache-2.antik.sk:81/live/esp2_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",M4 sport
+http://london-cache-2.antik.sk:81/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Spiler1
+http://london-cache-2.antik.sk:81/live/spiler1/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Spiler2
+http://london-cache-2.antik.sk:81/live/spiler2/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Sport1
+http://london-cache-2.antik.sk:81/live/sport1_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Sport2
+http://london-cache-2.antik.sk:81/live/sport2_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Animal
+http://london-cache-2.antik.sk:81/live/animal_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Bbc earth
+http://london-cache-2.antik.sk:81/live/bbce_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Discovery
+http://london-cache-2.antik.sk:81/live/discovery_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Fishing
+http://london-cache-2.antik.sk:81/live/fishing_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Food
+http://london-cache-2.antik.sk:81/live/fn_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",History
+http://london-cache-2.antik.sk:81/live/history_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Hgtv
+http://london-cache-2.antik.sk:81/live/hgtv_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Id
+http://london-cache-2.antik.sk:81/live/id_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Natgeo
+http://london-cache-2.antik.sk:81/live/ngc_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Natgeo wild
+http://london-cache-2.antik.sk:81/live/ngw_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Paprika
+http://london-cache-2.antik.sk:81/live/parpika_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Spektrum
+http://london-cache-2.antik.sk:81/live/spektrum_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Spektrum home
+http://london-cache-2.antik.sk:81/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Tlc
+http://london-cache-2.antik.sk:81/live/tlc_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Disney
+http://london-cache-2.antik.sk:81/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Jim jam
+http://london-cache-2.antik.sk:81/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Minimax
+http://london-cache-2.antik.sk:81/live/minimax_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Nicktoons
+http://london-cache-2.antik.sk:81/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Tv2 kids
+http://london-cache-2.antik.sk:81/live/tv2_kids/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Nick junior
+http://london-cache-2.antik.sk:81/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Real madrid
+http://london-cache-2.antik.sk:81/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",travel
+http://london-cache-2.antik.sk:81/live/travel_hun/index.m3u8
+#EXTINF:-1 group-title="Antik-TV",Travel xp
+http://london-cache-2.antik.sk:81/live/travel_xp_hun/index.m3u8
+#EXTINF:-1 group-title="Földfelszini Tv",M 1
+http://152.66.115.226:33491/bysid/100
+#EXTINF:-1 group-title="Földfelszini Tv",M 2
+http://152.66.115.226:33490/bysid/200
+#EXTINF:-1 group-title="Földfelszini Tv",RTL
+http://152.66.115.226:33490/bysid/203
+#EXTINF:-1 group-title="Földfelszini Tv",TV2
+http://152.66.115.226:33490/bysid/202
+#EXTINF:-1 group-title="Földfelszini Tv",Duna
+http://152.66.115.226:33491/bysid/102
+#EXTINF:-1 group-title="Földfelszini Tv",Duna World
+http://152.66.115.226:33491/bysid/103
+#EXTINF:-1 group-title="Földfelszini Tv",M 4 Sport
+http://152.66.115.226:33491/bysid/101
+#EXTINF:-1 group-title="Földfelszini Tv",M 5
+http://152.66.115.226:33490/bysid/201
+#EXTINF:-1 group-title="Földfelszini Tv",MAX 4
+http://152.66.115.226:33490/bysid/206
+#EXTINF:-1 group-title="Földfelszini Tv",Spektrum Home +
+http://152.66.115.226:33490/bysid/207
+
+---Troublesupport---
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74227.png" group-title="Troublesupport",HU| M1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74227&extension=ts&play_token=fxHIGnGv0l
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74226.png" group-title="Troublesupport",HU| M2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74226&extension=ts&play_token=WfvpSSO1L5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74224.png" group-title="Troublesupport",HU| M4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74224&extension=ts&play_token=QHQASQuP24
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74223.png" group-title="Troublesupport",HU| M5 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74223&extension=ts&play_token=LNHQptTRJU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1700975.png" group-title="Troublesupport",HU| MUZSIKA TV SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1700975&extension=ts&play_token=g4IbEVVnU5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275602.png" group-title="Troublesupport",HU| RTL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1275602&extension=ts&play_token=T77g4H2P7R
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74214.png" group-title="Troublesupport",HU| RTL GOLD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74214&extension=ts&play_token=M4sIAns9e5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74211.png" group-title="Troublesupport",HU| RTL2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74211&extension=ts&play_token=2qqwtt17hA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RTL-KETTO.png" group-title="Troublesupport",HU| RTL KETTO HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854288&extension=ts&play_token=hRsTUrrm70
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/RTL-HAROM.png" group-title="Troublesupport",HU| RTL HAROM HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854287&extension=ts&play_token=NaFOvlXaOE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/91265.png" group-title="Troublesupport",HU| HIR TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=91265&extension=ts&play_token=2KUOgQwA2n
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/859711.png" group-title="Troublesupport",HU| RTL III HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=859711&extension=ts&play_token=AELmK7cPue
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="Troublesupport",HU| AMC
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74295&extension=ts&play_token=DkIIuGielr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74294.png" group-title="Troublesupport",HU| ANIMAL PLANET HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74294&extension=ts&play_token=7VGe3r4Yqn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74293.png" group-title="Troublesupport",HU| ATV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74293&extension=ts&play_token=pWEjMmsAua
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74292.png" group-title="Troublesupport",HU| AUTO MOTOR SPORT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74292&extension=ts&play_token=SWTVNbeWNa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74291.png" group-title="Troublesupport",HU| AXN BLACK
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74291&extension=ts&play_token=sOs3KTmZ0o
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74290.png" group-title="Troublesupport",HU| AXN CE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74290&extension=ts&play_token=mhHTGtRk3i
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74288.png" group-title="Troublesupport",HU| AXN WHITE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74288&extension=ts&play_token=b0qIpLXomn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74287.png" group-title="Troublesupport",HU| BBC EARTH HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74287&extension=ts&play_token=NLEz0m9Q7C
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74286.png" group-title="Troublesupport",HU| CARTOONITO
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74286&extension=ts&play_token=ivlke9SI1v
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74285.png" group-title="Troublesupport",HU| CARTOON NETWORK
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74285&extension=ts&play_token=aPzVbS8Crm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74282.png" group-title="Troublesupport",HU| CINEMAX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74282&extension=ts&play_token=j60ATXp8YS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74281.png" group-title="Troublesupport",HU| CINEMAX 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74281&extension=ts&play_token=zoYpcBedYn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74278.png" group-title="Troublesupport",HU| COMEDY CENTRAL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74278&extension=ts&play_token=AK030ewp6h
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74276.png" group-title="Troublesupport",HU| COOL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74276&extension=ts&play_token=Qsj4IAGf90
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74275.png" group-title="Troublesupport",HU| COOL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74275&extension=ts&play_token=chHZsNfLod
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74270.png" group-title="Troublesupport",HU| MATCH4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74270&extension=ts&play_token=3fJ64bHKVU
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1715376.png" group-title="Troublesupport",HU| M4 SPORT+
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1715376&extension=ts&play_token=OvhuEy7Znp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/647110.png" group-title="Troublesupport",HU| ARENA 4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=647110&extension=ts&play_token=vJeTxeJoPa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/investigation-discovery.png" group-title="Troublesupport",HU| DISCOVERY INVESTIGATION
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1787628&extension=ts&play_token=2IgOLJfw97
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="Troublesupport",HU| DISNEY CHANNEL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74260&extension=ts&play_token=bQYuTBfDpr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74259.png" group-title="Troublesupport",HU| DISNEY JR
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74259&extension=ts&play_token=AMaN04l5bs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74257.png" group-title="Troublesupport",HU| DUCK TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74257&extension=ts&play_token=6t6AvnOFGp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74256.png" group-title="Troublesupport",HU| DUNA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74256&extension=ts&play_token=iFRi1smEvA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74255.png" group-title="Troublesupport",HU| DUNA WORLD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74255&extension=ts&play_token=BRfefV5K55
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1423943.png" group-title="Troublesupport",HU| DIRECT ONE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1423943&extension=ts&play_token=x7dyZna5x0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74254.png" group-title="Troublesupport",HU| E ENTERTAINMENT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74254&extension=ts&play_token=ll4c8zLqdJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ZENEBUTIK.png" group-title="Troublesupport",HU| ZENEBUTIK
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854303&extension=ts&play_token=9QWCQmEWjM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPILER2.png" group-title="Troublesupport",HU| SPILER2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854302&extension=ts&play_token=ss9tAeL94m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPILER.png" group-title="Troublesupport",HU| SPILER TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854301&extension=ts&play_token=jvNwzHv9io
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/KOLYOKKLUB.png" group-title="Troublesupport",HU| KOLYOKKLUB HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854300&extension=ts&play_token=TI8joRZe1p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/DIKH.png" group-title="Troublesupport",HU| DIKH TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854299&extension=ts&play_token=zmzz1l2xqg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPEKTRUM-HOME.png" group-title="Troublesupport",HU| SPEKTRUM HOME
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854298&extension=ts&play_token=iHuOK5Q4ne
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SOROZATKLUB.png" group-title="Troublesupport",HU| SOROZATKLUB
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854297&extension=ts&play_token=7wVunMHTBK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/STORY-4.png" group-title="Troublesupport",HU| STORY 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854296&extension=ts&play_token=8m4fsu4Wqr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MAX4.png" group-title="Troublesupport",HU| MAX4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854295&extension=ts&play_token=0RHYMd6ibf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/MOZIKLUB.png" group-title="Troublesupport",HU| MOZIKLUB
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854294&extension=ts&play_token=GFbrTMwST5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/MAGYAR-MOZI.png" group-title="Troublesupport",HU| MAGYAR MOZI TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854293&extension=ts&play_token=ydaUYZKuCf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/PANNON.png" group-title="Troublesupport",HU| PANNON TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854289&extension=ts&play_token=Hgy702uLtR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74251.png" group-title="Troublesupport",HU| EUROSPORT 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74251&extension=ts&play_token=8NG4q3cEWS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74250.png" group-title="Troublesupport",HU| EUROSPORT HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74250&extension=ts&play_token=OEToCgPS08
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74249.png" group-title="Troublesupport",HU| TV2 KLUB
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74249&extension=ts&play_token=NAQqv183BE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74247.png" group-title="Troublesupport",HU| FILM 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74247&extension=ts&play_token=YZgeNLA5WG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74248.png" group-title="Troublesupport",HU| FILM PLUS
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74248&extension=ts&play_token=uaIzoen7xS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FILMBOX-FAMILY.png" group-title="Troublesupport",HU| FILMBOX FAMILY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854292&extension=ts&play_token=IjX7WVDD9F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FILMBOX.png" group-title="Troublesupport",HU| FILMBOX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854291&extension=ts&play_token=sZZImWmFXD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/FILMBOX-STARS-INT.png" group-title="Troublesupport",HU| FILMBOX STARS INT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1854290&extension=ts&play_token=MRyZ9pBOVK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74246.png" group-title="Troublesupport",HU| FILMBOX EXTRA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74246&extension=ts&play_token=n2f66rsBWu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74245.png" group-title="Troublesupport",HU| FILMBOX PREMIUM
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74245&extension=ts&play_token=KHtZZH3SVn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74243.png" group-title="Troublesupport",HU| FISHING AND HUNTING
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74243&extension=ts&play_token=sUV28ssQu4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74241.png" group-title="Troublesupport",HU| GALAXY4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74241&extension=ts&play_token=Wl6wznOz9S
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74239.png" group-title="Troublesupport",HU| HBO HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74239&extension=ts&play_token=cor1mOHIXA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1423942.png" group-title="Troublesupport",HU| HBO 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1423942&extension=ts&play_token=7nVWvbbCSh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74238.png" group-title="Troublesupport",HU| HBO2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74238&extension=ts&play_token=zhc60YyIKV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1423941.png" group-title="Troublesupport",HU| HBO 3 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1423941&extension=ts&play_token=Xo5E7yA4BX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74237.png" group-title="Troublesupport",HU| HBO3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74237&extension=ts&play_token=2cSAqu35yf
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1700965.png" group-title="Troublesupport",HU| HIT TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1700965&extension=ts&play_token=30my4U7tFn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74234.png" group-title="Troublesupport",HU| HISTORY HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74234&extension=ts&play_token=V4Wq6aU1jx
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74232.png" group-title="Troublesupport",HU| IZAURA TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74232&extension=ts&play_token=DutXXBfRBW
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/jimjam.png" group-title="Troublesupport",HU| JIMJAM
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74231&extension=ts&play_token=XfLJ3nonui
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74221.png" group-title="Troublesupport",HU| MINIMAX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74221&extension=ts&play_token=GCk94wvN8Y
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74220.png" group-title="Troublesupport",HU| MOZI PLUS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74220&extension=ts&play_token=qv7y8bmptN
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74219.png" group-title="Troublesupport",HU| NICKELODEON EUROPE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74219&extension=ts&play_token=dEr8yNFUxT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74218.png" group-title="Troublesupport",HU| OZONE NETWORK
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74218&extension=ts&play_token=QSF0tD0tqF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/paramountchannelhungary.png" group-title="Troublesupport",HU| PARAMOUNT CHANNEL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74217&extension=ts&play_token=KQL82sD3nV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74215.png" group-title="Troublesupport",HU| PRIME
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74215&extension=ts&play_token=bx0eXNPjre
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1700974.png" group-title="Troublesupport",HU| ZENEBUTIK TV SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1700974&extension=ts&play_token=yraHEZyECG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1289359.png" group-title="Troublesupport",HU| SLAGER TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=1289359&extension=ts&play_token=3leAgaIqJg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74209.png" group-title="Troublesupport",HU| VIASAT 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74209&extension=ts&play_token=PD7gDKr6cj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74208.png" group-title="Troublesupport",HU| AXN CRIME
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74208&extension=ts&play_token=GkTWnPjq4P
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74207.png" group-title="Troublesupport",HU| SOROZAT PLUS
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74207&extension=ts&play_token=UWvfEgCw1x
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74206.png" group-title="Troublesupport",HU| SPEKTRUM HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74206&extension=ts&play_token=JyYkpRkWGS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74204.png" group-title="Troublesupport",HU| SPIELER2 TV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74204&extension=ts&play_token=6hTmPOthmv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74203.png" group-title="Troublesupport",HU| SPIELER TV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74203&extension=ts&play_token=VQpPjGsOxh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74202.png" group-title="Troublesupport",HU| SPORT 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74202&extension=ts&play_token=1NWK2zATOE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74201.png" group-title="Troublesupport",HU| SPORT 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74201&extension=ts&play_token=ca09nUEFxi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74200.png" group-title="Troublesupport",HU| STORY 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74200&extension=ts&play_token=cSCz0JyLBj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74199.png" group-title="Troublesupport",HU| SUPER TV 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74199&extension=ts&play_token=z7pI2P46nJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74198.png" group-title="Troublesupport",HU| TLC
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74198&extension=ts&play_token=jjbgxiZk50
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74196.png" group-title="Troublesupport",HU| TV 1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74196&extension=ts&play_token=LZHQfg7gf4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74195.png" group-title="Troublesupport",HU| TV PAPRIKA
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74195&extension=ts&play_token=nJV96qxLDO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74194.png" group-title="Troublesupport",HU| TV2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74194&extension=ts&play_token=PcaXbOpVXz
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74193.png" group-title="Troublesupport",HU| TV4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74193&extension=ts&play_token=c1WUGFbu0v
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74189.png" group-title="Troublesupport",HU| VIASAT 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74189&extension=ts&play_token=RCiGrtWwKl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74188.png" group-title="Troublesupport",HU| VIASAT 6
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74188&extension=ts&play_token=BBezr2sWPj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74192.png" group-title="Troublesupport",HU| VIASAT EXPLORE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74192&extension=ts&play_token=6mtFxjIkt5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74191.png" group-title="Troublesupport",HU| VIASAT HISTORY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74191&extension=ts&play_token=WQvGNKRUjl
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74190.png" group-title="Troublesupport",HU| VIASAT NATURE / HISTORY HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74190&extension=ts&play_token=et9G9K4hm1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74346.png" group-title="Troublesupport",HU| APOSTOL TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74346&extension=ts&play_token=WUEsvOfnYH
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74344.png" group-title="Troublesupport",HU| BONUM
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74344&extension=ts&play_token=Z4fMAIfF3T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/epicdramahd.png" group-title="Troublesupport",HU| EPIC DRAMA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74341&extension=ts&play_token=ZTLXMW1kGP
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74339.png" group-title="Troublesupport",HU| FILM CAFE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74339&extension=ts&play_token=HPKSduLTM2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74338.png" group-title="Troublesupport",HU| FILM MANIA
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74338&extension=ts&play_token=itfEfeji66
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74335.png" group-title="Troublesupport",HU| JOCKY TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74335&extension=ts&play_token=cMUkIPmwdM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74333.png" group-title="Troublesupport",HU| MOZIVERZUM
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74333&extension=ts&play_token=miLVmIYFRL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74330.png" group-title="Troublesupport",HU| NAT GEO HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74330&extension=ts&play_token=NnedtcS3YM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74331.png" group-title="Troublesupport",HU| NAT GEO WILD HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74331&extension=ts&play_token=fNoHsEz42s
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/74329.png" group-title="Troublesupport",HU| NICK JR
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=74329&extension=ts&play_token=4EbGRRJUxt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459619.png" group-title="Troublesupport",HU| ATV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459619&extension=ts&play_token=CWQUdgPBhM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459615.png" group-title="Troublesupport",HU| ATV EXTRA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459615&extension=ts&play_token=FOXFc2WCM7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459620.png" group-title="Troublesupport",HU| AXN HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459620&extension=ts&play_token=fhpCNuqQna
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459614.png" group-title="Troublesupport",HU| DA VINCI LEARNING
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459614&extension=ts&play_token=HvScOAXf6f
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459617.png" group-title="Troublesupport",HU| DUNA WORLD HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459617&extension=ts&play_token=rlysY5S3UF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459627.png" group-title="Troublesupport",HU| ERDÉLY TV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459627&extension=ts&play_token=n585F4ncTG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459621.png" group-title="Troublesupport",HU| FILM+ HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459621&extension=ts&play_token=oE7ElJCJ73
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459622.png" group-title="Troublesupport",HU| LIFETV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459622&extension=ts&play_token=G89MsGXtn5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459628.png" group-title="Troublesupport",HU| NICKTOONS
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459628&extension=ts&play_token=vVwvFLkU11
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459618.png" group-title="Troublesupport",HU| SUPER TV2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459618&extension=ts&play_token=ufHPAFgmDQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459624.png" group-title="Troublesupport",HU| TV2 COMEDY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459624&extension=ts&play_token=0QsR3p2B7t
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459625.png" group-title="Troublesupport",HU| TV2 KIDS
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459625&extension=ts&play_token=GQMCcicqlW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459626.png" group-title="Troublesupport",HU| TV2 SEF
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459626&extension=ts&play_token=923ZeCCfSb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/459616.png" group-title="Troublesupport",HU| VIASAT 3 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:90:50:70&stream=459616&extension=ts&play_token=yvfp4JWy3Z
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJcX/2967_icon_big.png",Top Filmek HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2967
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKMe/3875_icon_big.png",MEGA HIT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3875
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJce/3863_icon_big.png",Premium Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3863
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CK0a/3373_icon_big.png",Hupikék Törpikék HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3373
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJEc/3601_icon_big.png",A Mancs őrjárat HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3601
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJwe/3868_icon_big.png",Premium Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3868
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJke/3865_icon_big.png",Premium Thriller HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3865
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CI0e/3853_icon_big.png",Premium Drama HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3853
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLoZ/3258_icon_big.png",A világ rejtett oldala HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3258
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CK4U/2606_icon_big.png",Utazás & Kaland HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2606
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CNoP/2010_icon_big.png",Akció zóna HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2010
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CMAd/3776_icon_big.png",Romantikus Vígjáték HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3776
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJ4e/3870_icon_big.png",Crime TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3870
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CN4P/2014_icon_big.png",Vígjáték univerzum HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2014
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKcc/3623_icon_big.png",SpongeBob SquarePants HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3623
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLMc/3635_icon_big.png",A Lármás család HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3635
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLcU/2615_icon_big.png",Pure Nature HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2615
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CNoU/2650_icon_big.png",Men With The Pot HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2650
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CO0Z/3309_icon_big.png",Az ismerős gonosz HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3309
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKwS/2348_icon_big.png",Gyilkosságok térképe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2348
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CN0P/2013_icon_big.png",Családi szórakozás HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2013
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIce/3847_icon_big.png",Sci-Fi & Fantasy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3847
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIge/3848_icon_big.png",Kaland Plusz HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3848
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/COAP/2016_icon_big.png",Thriller idő HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2016
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CMEd/3777_icon_big.png",Romantikus Dráma HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3777
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CN8P/2015_icon_big.png",Valódi dráma HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2015
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIUe/3845_icon_big.png",Horror vidék HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3845
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CNga/3416_icon_big.png",Bűnös Miami HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3416
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CL0c/3645_icon_big.png",Pénzjátszma HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3645
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLIS/2354_icon_big.png",Politikatörténet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2354
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLQS/2356_icon_big.png",Elnökök és vezetők HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2356
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CK0S/2349_icon_big.png",Mítoszok és szörnyek HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2349
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKoS/2346_icon_big.png",Történelmi személyek HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2346
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKkS/2345_icon_big.png",Divattörténelem HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2345
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKQS/2340_icon_big.png",Filmcsillagok HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2340
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLMS/2355_icon_big.png",Elveszett műtárgyak nyomában HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2355
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKMS/2339_icon_big.png",Monarchiák és dinasztiák HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2339
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJ0c/3613_icon_big.png",Mozilegendák HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3613
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CNwW/2908_icon_big.png",Hollywoodi történetek HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2908
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/COUb/3557_icon_big.png",Science & Innovation HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3557
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLAS/2352_icon_big.png",Video killed the radio star HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2352
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKgS/2344_icon_big.png",Az opera legendái HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2344
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKYS/2342_icon_big.png",A világ személyiségei HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2342
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CPkZ/3321_icon_big.png",Cooking with Byron Talbott HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3321
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CMsc/3659_icon_big.png",Trace Sport Stars HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3659
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJwY/3100_icon_big.png",Unbeaten Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3100
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CM0Y/3149_icon_big.png",A sport igaz története HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3149
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLoY/3130_icon_big.png",Sporthorgászat HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3130
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CJgc/3608_icon_big.png",Tini Nindzsa Teknőcök HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3608
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CPYa/3446_icon_big.png",Talking Tom Shorts HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3446
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CK4Q/2094_icon_big.png",Da Vinci: Dokik bevetésen HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2094
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKcQ/2087_icon_big.png",Da Vinci: Fedezd fel a világot HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2087
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CLIQ/2098_icon_big.png",Da Vinci: Szórakoztató tanulás HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2098
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIkc/3593_icon_big.png",BABY SHARK TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3593
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CL8b/3519_icon_big.png",Mattel Junior HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3519
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKwY/3116_icon_big.png",Cocobi TV. Song HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3116
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKsY/3115_icon_big.png",Cocobi TV. Fun Play HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3115
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CP4a/3454_icon_big.png",Blip TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3454
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CKEb/3489_icon_big.png",Magical Smile TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3489
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/COIc/3682_icon_big.png",Trace Urban HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3682
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CP4c/3710_icon_big.png",Trace UK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3710
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CPsc/3707_icon_big.png",Trace Brasil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3707
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CN4c/3678_icon_big.png",Trace Latina HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3678
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIUS/2309_icon_big.png",London Élőzene HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2309
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CIkS/2313_icon_big.png",Élő Popkoncertek HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=2313
+#EXTINF:-1 group-title="Sweet.Tv" tvg-logo="http://staticeu.sweet.tv/images/cache/v2/channel_icon_big/CNAa/3408_icon_big.png",France 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+http://scriptandstream.nhely.hu/freesweet.php?ch=3408
+
+---Film---
+
+#EXTINF:-1 group-title="Film",paramountnetworkhu
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=paramountnetworkhu
+#EXTINF:-1 group-title="Film",Netes TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://scriptandstream.nhely.hu/scripts/ok.ru.php?id=4742600793632
+#EXTINF:-1 group-title="Film",Törpapa_tv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=Daddy_Smurf_tv
+#EXTINF:-1 group-title="Film",mokeptv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=mokeptv
+#EXTINF:-1 group-title="Film",from-tv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=from-tv
+#EXTINF:-1 group-title="Film",film-2
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=film-2
+#EXTINF:-1 group-title="Film",classics Tv
+http://s01.diazol.hu:9150/live.m3u8
+#EXTINF:-1 group-title="Film",maxinow2
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=maxinow2
+#EXTINF:-1 group-title="Film",gaby-filmwekend
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=gaby-filmwekend
+#EXTINF:-1 group-title="Film",filmkedvencek
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=filmkedvencek
+#EXTINF:-1 group-title="Film",gaby71film
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=gaby71film#EXTINF:-1 group-title="Film",cherry
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=cherry
+#EXTINF:-1 group-title="Film",Spintv hungary
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=spintvhungary
+#EXTINF:-1 group-title="Film",Yellow-gipsy
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=yellow-gipsy
+#EXTINF:-1 group-title="Film",Mr.Bean
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=mrbean
+#EXTINF:-1 group-title="Film",Mr Bean Live
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="Film",Sorozatkedvenc
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=sorozatkedvenc
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Helyi",Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 group-title="Helyi"tvg-id="PannonTV.rs" tvg-logo="https://i.imgur.com/xQa2idL.png" , Pannon RTV
+https://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF:-1 group-title="Helyi",Vajdaság-i Tv
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="BalatonTV.hu" tvg-logo="https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png" group-title="Helyi",Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 group-title="Helyi",Kecskemeti VTV
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 group-title="Helyi",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 group-title="Helyi",Vásárhelyi Televízió
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 group-title="Helyi",Bp Europa tv.
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Helyi",RT live
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
+
+---Gyerek---
+
+#EXTINF:-1 group-title="Gyerek",tv.dragonhall(20-24)
+https://tv.dragonhall.hu:443/live/dragonhall.m3u8
+#EXTINF:-1 group-title="Gyerek",tomandjerry
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=tomandjerry
+#EXTINF:-1 group-title="Gyerek",catoonnetworkmagyaroszgretro
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=catoonnetworkmagyaroszgretro
+#EXTINF:-1 group-title="Gyerek",Yellow-kids
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=yellow-kids
+#EXTINF:-1 group-title="Gyerek",Netes TV Mese Box
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://scriptandstream.nhely.hu/scripts/ok.ru.php?id=8885300370976
+#EXTINF:-1 group-title="Gyerek",Tom and Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="SmurfTV.us@SD" tvg-logo="https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/EJIyYyBMkbW5UntSCAkGp-uLla7Z8KWHvDjyEqoOf3k.jpg" group-title="Gyerek",Smurf TV (480p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Gyerek",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Gyerek",The LEGO Channel (1080p)
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="LEGOKidsTV.us@SD" tvg-logo="https://i.imgur.com/tMfEsVr.png" group-title="Gyerek",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPokemon.us@UK" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Gyerek",Pokémon
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+
+---Sport---
+
+#EXTINF:-1 group-title="Sport",Bunyó tv
+https://iptv02.eurocable.co.hu:15400/ECS-BUNYOTVFTA/index.fmp4.m3u8
+#EXTINF:-1 group-title="Sport",FIGHTBOX
+http://176.122.99.7:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Motors Tv.png" group-title="Sport",Motors Tv
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/PROSTO DRIVE.png" group-title="Sport",PROSTO DRIVE
+http://176.122.99.7:7000/ch326/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="Sport",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/XStream.png" group-title="Sport",XStream
+http://176.122.99.7:7000/ch313/video.m3u8
+#EXTINF:-1 group-title="Sport",Bek sport west
+http://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport",A21 Network
+http://tv.a21network.ru/content/37909/index.m3u8
+#EXTINF:-1 group-title="Sport",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="Sport",UNBEATEN
+http://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Knocks Fighting
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 group-title="Sport",World Poker
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8#EXTINF:-1 group-title="Prémium",Music box
+#EXTINF:-1 group-title="Sport",Nascar(VPN-USA)
+https://amg00115-nascar-amg00115c1-firetv-us-8584.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Fox Sports
+https://s11host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host1.localnow.api.cms.amdvids.com&ads.playbackid=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n4=content_name&ads.v4=FOX%20Sports&ads.n21=network_name&ads.v21=fox-sports&ads.n22=channel_language&ads.v22=en&ads.n23=app_store_url&ads.v23=&ads.n24=gpp_sid&ads.v24=&ads.n25=did&ads.v25=&ads.n26=channel_title&ads.v26=FOX%20Sports&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_ext_id&ads.v29=&ads.n30=content_livestream&ads.v30=1&ads.n31=pos&ads.v31=midroll&ads.n32=channel_id&ads.v32=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=content_custom_2_param&ads.v34=AMDB013655&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=channel_name&ads.v36=FOX%20Sports&ads.n37=content_provider&ads.v37=fox-sports&ads.n38=device_make&ads.v38=&ads.n39=app_bundle&ads.v39=&ads.n40=channel_corp&ads.v40=Fox%20News%20Network&ads.n41=gpp&ads.v41=&ads.n42=content_custom_1_param&ads.v42=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n43=channel_company_id&ads.v43=AMDP500565&ads.n44=w&ads.v44=1920&ads.n45=app_name&ads.v45=&ads.n46=dnt&ads.v46=&ads.n47=content_producer_name&ads.v47=Fox%20News%20Network&ads.n48=content_custom_3_param&ads.v48=channel&ads.n49=content_type&ads.v49=channel&ads.n50=app_version&ads.v50=0.0.0&ads.n51=ip&ads.v51=193.228.206.147&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=device_type&ads.v53=&ads.n54=channel_brand_id&ads.v54=AMDB013655&ads.n55=h&ads.v55=1080&ads.n56=ifa_type&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=channel_genre&ads.v58=New%20on%20Local%20Now
+#EXTINF:-1 group-title="Sport",TNA Wrestling
+https://s5host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config7/playlist.m3u8?ads.cdnhost=s5host5.localnow.api.cms.amdvids.com&ads.playbackid=C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC&ads.n4=content_name&ads.v4=EPG%20%7C%20TNA%20Wrestling&ads.n21=app_bundle&ads.v21=&ads.n22=channel_ext_id&ads.v22=60419f9b80981542903f4552&ads.n23=channel_corp&ads.v23=Anthem%20Wrestling%20Exhibitions%20LLC&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=gpp_sid&ads.v25=&ads.n26=channel_id&ads.v26=C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC&ads.n27=h&ads.v27=1080&ads.n28=ip&ads.v28=193.228.206.147&ads.n29=channel_rating&ads.v29=TV-PG&ads.n30=content_type&ads.v30=channel&ads.n31=dnt&ads.v31=&ads.n32=channel_brand_id&ads.v32=AMDB013265&ads.n33=app_version&ads.v33=0.0.0&ads.n34=content_custom_1_param&ads.v34=C2C6DDAF-C202-44A1-AE9E-FEA0666F20DC&ads.n35=channel_title&ads.v35=EPG%20%20TNA%20Wrestling&ads.n36=ifa_type&ads.v36=&ads.n37=content_custom_2_param&ads.v37=AMDB013265&ads.n38=network_name&ads.v38=impact-wrestling&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=channel_name&ads.v40=EPG%20%20TNA%20Wrestling&ads.n41=url&ads.v41=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n42=content_producer_name&ads.v42=Anthem%20Wrestling%20Exhibitions%20LLC&ads.n43=gpp&ads.v43=&ads.n44=w&ads.v44=1920&ads.n45=app_store_url&ads.v45=&ads.n46=content_provider&ads.v46=impact-wrestling&ads.n47=channel_genre&ads.v47=Sports&ads.n48=channel_company_id&ads.v48=AMDP500125&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=did&ads.v50=&ads.n51=channel_language&ads.v51=en&ads.n52=pos&ads.v52=midroll&ads.n53=device_model&ads.v53=&ads.n54=device_type&ads.v54=&ads.n55=ua&ads.v55=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n56=content_livestream&ads.v56=1&ads.n57=app_name&ads.v57=&ads.n58=device_make&ads.v58=
+#EXTINF:-1 group-title="Sport",FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8?channel_name=Fight%20Network&content_genre=MMA%2CSport&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sport",HBO Boxing(VPN-USA)
+https://amg00136-wbd-amg00136c41-tablo-us-7200.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sport",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sport",FightBox HD
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="RallyTV.us@SD" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" group-title="Sport",Rally TV (1080p)
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-id="FloHockey.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/flohockey-white.png" group-title="Sport",FloHockey 24/7 (1080p)
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Sport",FloRacing 24/7 (1080p)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sport",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sport",Fox Sports 2 (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sport",Fuel TV (1080p)
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sport",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="GloryKickboxing.us@Poland" tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="Sport",GLORY Kickboxing (720p)
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sport",MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sport",Nautical Channel (720p)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sport",NBA TV (1080p)
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sport",NFL Channel (720p)
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sport",NFL Network (720p)
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sport",NHL Network (1080p)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RACERInternational.pl@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sport",RACER International (1080p)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="RacerSelect.us@SD" tvg-logo="https://i.imgur.com/CurtYvn.png" group-title="Sport",Racer Select (1080p)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="Sport",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyRacing2.au@SD" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="Sport",Sky Racing 2 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png" group-title="Sport",Stadium (720p)
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us@UK" tvg-logo="https://i.imgur.com/bVQBF6R.png" group-title="Sport",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us@SD" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sport",Swerve Sports (720p)
+https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="Sport",TVS Bowling Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us@SD" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="Sport",TVS Boxing (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us@SD" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Sport",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us@SD" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sport",TVS Sports (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us@SD" group-title="Sport",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us@SD" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Sport",TVS Turbo (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us@SD" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Sport",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sport",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Zene",Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Zene"tvg-id="TrimedioTV.hu" tvg-logo="https://i.imgur.com/P4hxWVZ.png" ,Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 group-title="Zene",Musicmax
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=Musicmax
+#EXTINF:-1 group-title="Zene",gabykoncert
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=gabykoncert
+#EXTINF:-1 group-title="Zene",mtvmusic
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=mtvmusic
+#EXTINF:-1 group-title="Zene",Retro-80s tv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=retro-80stv
+#EXTINF:-1 group-title="Zene",MCM
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=mcm
+#EXTINF:-1 group-title="Zene",Music tv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=cs-musictv
+#EXTINF:-1 group-title="Zene",Discopop tv
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=disco_pop_tv
+#EXTINF:-1 group-title="Zene"tvg-id="41070" tvg-name="Best Hits" group-title="Zene",Best Hits
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=best-hits
+#EXTINF:-1 group-title="Zene",VIVA Plus
+https://fl1001.bozztv.com/ushba-t2/playlist.m3u8
+#EXTINF:-1 group-title="Zene",Impact Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 group-title="Zene",NOW 80s
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Zene",Now70s
+https://lightning-now70s-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Zene",MTV 00
+http://scriptandstream.nhely.hu/scripts/catcast.php?channel=mtv-00s
+#EXTINF:-1 group-title="Zene",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Zene",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="Zene",VIVA rus.
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Zene",Dance tv
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
